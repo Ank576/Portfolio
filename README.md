@@ -36,6 +36,13 @@ Marketing website concept for an AI product highlighting key features, value pro
 [View Prototype](https://v0.app/chat/banking-offer-negotiation-dEOElap7iGf?ref=IWLY88)  
 Customer-bank negotiation interface mockup focusing on settlement offers and guided repayment workflows.
 
+### 8. Stock Investment Dashboard
+[View Prototype](https://v0.app/chat/stock-investing-dashboard-t9hDdTXnlyp?ref=IWLY88)
+
+### 9. Financial Wellness Ecosystem
+[View Prototype](https://v0.app/chat/financial-wellness-app-q9YOeBEmT0s?ref=IWLY88)
+- Focusing upon micro-habit building ecosystem to bring cross sale.
+
 ## Usage
 
 - Explore prototypes to gather UX inspirations and product ideas.  
