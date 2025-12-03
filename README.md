@@ -1,6 +1,6 @@
-# Product Design Prototypes Collection
+# Product Prototypes & Design Collection
 
-A curated collection of interactive design prototypes across fintech, legal tech, and AI-powered products. Each prototype links to a live v0.app session and includes a brief summary describing its purpose and key features.
+A curated collection of interactive design prototypes across fintech, research tech, and AI-powered products. Each prototype links to a  and includes a brief summary describing its purpose and key features.
 
 
 ## LLM-Powered Applications
