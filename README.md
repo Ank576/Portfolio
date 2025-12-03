@@ -2,6 +2,38 @@
 
 A curated collection of interactive design prototypes across fintech, legal tech, and AI-powered products. Each prototype links to a live v0.app session and includes a brief summary describing its purpose and key features.
 
+
+## LLM-Powered Applications
+
+### 1. BNPL Eligibility Checker
+
+**Framework:** Streamlit + Perplexity API (OpenAI-compatible LLM)
+
+[View Live App](https://bnpl-eligibility-checker-mev79gc9pmstrszvhsmufx.streamlit.app/)
+
+An intelligent Buy-Now-Pay-Later (BNPL) eligibility checker that leverages LLM capabilities to evaluate loan terms against RBI norms. The application uses an LLM to analyze and validate BNPL terms, returning structured JSON results with regulatory compliance citations and approval/rejection logic.
+
+**Key Features:**
+- LLM-powered term evaluation and compliance checking
+- Structured JSON response generation with regulatory citations
+- RBI norm validation and BNPL eligibility assessment
+- Domain-specific financial regulation interpretation
+
+### 2. Fair Practices Auditor
+
+**Framework:** Streamlit + Perplexity API (OpenAI-compatible LLM)
+
+[View Live App](https://fair-practices-auditor-dzvt2uid5mjeq9v8qizr8h.streamlit.app/)
+
+An LLM-driven audit tool that checks financial product terms and conditions against fair practice standards. The auditor uses advanced language models to identify potential compliance gaps, unfair clauses, and regulatory violations in financial agreements.
+
+**Key Features:**
+- LLM-based fair practice compliance auditing
+- Natural language analysis of financial terms
+- Identification of unfair clauses and regulatory gaps
+- Actionable recommendations for compliance improvements
+
+
 ## Repository Overview
 
 This repository serves as a central hub for tracking, reviewing, and iterating on UX and product design concepts. It helps teams and stakeholders explore design ideas and understand product workflows across multiple domains.
