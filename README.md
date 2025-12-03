@@ -33,6 +33,12 @@ An LLM-driven audit tool that checks financial product terms and conditions agai
 - Identification of unfair clauses and regulatory gaps
 - Actionable recommendations for compliance improvements
 
+### 3. Financial Goal Tracker
+**Framework:** Streamlit + LLM API (OpenAI-compatible LLM)
+
+[View Live App](https://github.com/Ank576/financial-goal-tracker/tree/main)
+
+An intelligent Streamlit web application that uses LLM (Perplexity Sonar) to analyze your financial goals and recommend optimal asset allocation across multiple investment classes including equity, debt, gold, silver, crude oil/energy, and real estate.
 
 ## Repository Overview
 
