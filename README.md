@@ -129,10 +129,13 @@ Micro-habit building ecosystem designed to promote financial wellness and enable
 
 Interested in collaborating or discussing these projects? Feel free to reach out!
 
+**Email:** [ankit.saxena76@nmims.edu.in](mailto:ankit.saxena76@nmims.edu.in)
+**LinkedIn:** [Ankit Saxena](https://linkedin.com/in/ankit-saxena76)
+
 **⭐ Star this repo** if you find these prototypes useful!
 
 ---
 
 <div align="center">
-  <sub>Built with  by <a href="https://github.com/Ank576">Ankit Saxena</a></sub>
+  <sub>Built with  by <a href="https://github.com/Ank576">Ankit Sxena</a></sub>
 </div>
